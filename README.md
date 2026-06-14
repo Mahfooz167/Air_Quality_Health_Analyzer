@@ -1,10 +1,6 @@
-```
+# 🌍 Air Quality Health Analyzer
 
-```
-
-Then paste the following into `README.md`:
-
-# 🌍 Air Quality Health Analyzer — Multimodal Generative AI Application
+<div align="center">
 
 ![AWS](https://img.shields.io/badge/AWS-PartyRock-orange)
 ![GenAI](https://img.shields.io/badge/Generative-AI-blue)
@@ -12,23 +8,25 @@ Then paste the following into `README.md`:
 ![Multimodal](https://img.shields.io/badge/Multimodal-AI-purple)
 ![Conversational AI](https://img.shields.io/badge/Conversational-AI-red)
 
-<p align="center">
-  <b>AI-Powered Air Quality Intelligence for Personalized Health Insights</b> 🌿🧠
-  <br>
-  AQI Analysis • AI Chat Assistant • Image Understanding • Dynamic City Visualization
-</p>
+### AI-Powered Environmental Intelligence using Large Language Models
+
+**AQI Analysis • AI Chat Assistant • Multimodal Understanding • Dynamic City Visualization**
+
+</div>
 
 ---
 
-# 🧠 Project Overview
+# 🚀 Overview
 
-Air Quality Health Analyzer is an advanced Generative AI application built using Amazon PartyRock and Large Language Models (LLMs).
+Air Quality Health Analyzer is a **Multimodal Generative AI application** built with **Amazon PartyRock** and powered by **Large Language Models (LLMs)**.
 
-The application analyzes Air Quality Index (AQI) values and provides contextual health recommendations based on pollution severity.
+The system transforms Air Quality Index (AQI) values into actionable health insights through contextual reasoning and personalized recommendations.
 
-Users can upload air quality reports and monitor images for multimodal analysis, interact with an AI-powered Air Quality Assistant, and visualize selected cities dynamically for a richer user experience.
+Beyond numerical AQI interpretation, the application supports multimodal interactions by analyzing uploaded air quality reports and monitor images. Users can further interact with an AI-powered Air Quality Assistant to ask natural language questions regarding air pollution, health impacts, preventive measures, and environmental conditions.
 
-This project demonstrates practical experience in:
+Additionally, selecting a city dynamically generates visual representations of the location, creating a more engaging and interactive experience.
+
+This project demonstrates practical expertise in:
 
 * Large Language Models (LLMs)
 * Prompt Engineering
@@ -40,33 +38,17 @@ This project demonstrates practical experience in:
 
 ---
 
-# 🌆 Smart City Visualization
+# 🖥️ Application Preview
 
 <p align="center">
-<img src="https://images.unsplash.com/photo-1480714378408-67cf0d13bc1d?w=1200" width="750">
+<img src="https://raw.githubusercontent.com/Mahfooz167/Air_Quality_Health_Analyzer/main/Screenshot%202026-06-14%20182026.png" width="1000">
 </p>
 
 ---
 
-# 🤖 AI Environmental Intelligence
+# 🌐 Live Demo
 
-<p align="center">
-<img src="https://images.unsplash.com/photo-1677442136019-21780ecad995" width="500">
-</p>
-
----
-
-# 🖥️ Application Screenshot
-
-<p align="center">
-<img src="screenshots/home.png" width="1000">
-</p>
-
----
-
-# 🚀 Live Demo
-
-### 🔗 Try the Application
+### Try the Application
 
 [https://partyrock.aws/u/mahfooz/oykU5hNy3/Air-Quality-Health-Analyzer](https://partyrock.aws/u/mahfooz/oykU5hNy3/Air-Quality-Health-Analyzer)
 
@@ -74,130 +56,126 @@ This project demonstrates practical experience in:
 
 # ✨ Features
 
-## 📊 AQI Analysis
+## 📊 Intelligent AQI Analysis
 
-* Intelligent AQI classification
+* Air quality classification
 * Pollution severity assessment
 * Health impact interpretation
+* Context-aware recommendations
 
-## 🩺 Personalized Health Recommendations
-
-* Context-aware guidance
-* Safety measures
-* Recommendations for sensitive groups
+---
 
 ## 🤖 AI Air Quality Assistant
 
-Ask questions naturally such as:
+The integrated conversational assistant enables users to ask questions such as:
 
-* Is AQI 300 dangerous?
+* Is AQI 250 dangerous?
 * Can children play outside today?
-* What masks help against air pollution?
 * How does PM2.5 affect health?
+* Which masks are recommended?
 * What precautions should elderly people take?
 
-## 📷 Multimodal Image Analysis
+The assistant leverages Generative AI to provide contextual and human-friendly explanations.
 
-Supports:
+---
+
+## 📷 Multimodal Analysis
+
+Supports image understanding of:
 
 * Air quality reports
 * Monitor screenshots
 * Pollution-related images
 
-## 🌆 Dynamic City Visualization
-
-When users select a city, the application generates visual representations of the location to create a more engaging experience.
-
-## 🧠 LLM-Based Reasoning
-
-Leverages Generative AI to:
-
-* Understand context
-* Explain health implications
-* Generate personalized responses
-* Deliver actionable insights
+This enables richer environmental insights beyond textual inputs.
 
 ---
 
-# 🏗️ Tech Stack
+## 🌆 Dynamic City Visualization
 
-| Component   | Technology                   |
-| ----------- | ---------------------------- |
-| Platform    | Amazon PartyRock             |
-| AI Engine   | Large Language Models (LLMs) |
-| Methodology | Prompt Engineering           |
-| Capability  | Conversational AI            |
-| Input Types | Text + Images                |
-| Reasoning   | Contextual AI                |
-| Domain      | Environmental Analytics      |
+Selecting a city automatically generates visual representations of that location, enhancing environmental awareness and improving user engagement.
+
+---
+
+## 🩺 Personalized Health Recommendations
+
+Provides:
+
+* Safety measures
+* Health guidance
+* Recommendations for sensitive groups
+* Activity suggestions based on AQI levels
+
+---
+
+# 🏗️ Technology Stack
+
+| Layer            | Technology              |
+| ---------------- | ----------------------- |
+| Platform         | Amazon PartyRock        |
+| AI Engine        | Large Language Models   |
+| Methodology      | Prompt Engineering      |
+| Intelligence     | Contextual Reasoning    |
+| Interaction      | Conversational AI       |
+| Input Modalities | Text + Images           |
+| Domain           | Environmental Analytics |
 
 ---
 
 # 🔬 Workflow
 
-### 1️⃣ Enter AQI Value
-
-↓
-
-### 2️⃣ Provide Location and Additional Context
-
-↓
-
-### 3️⃣ Upload Reports or Images
-
-↓
-
-### 4️⃣ LLM Processing
-
-Performs:
-
-* Pollution Analysis
-* Health Risk Assessment
-* Context Understanding
-
-↓
-
-### 5️⃣ AI Air Quality Assistant
-
-Natural Language Interaction
-
-↓
-
-### 6️⃣ Dynamic City Visualization
-
-Visual representation of selected locations
-
-↓
-
-### 7️⃣ Personalized Recommendations
-
-Actionable environmental insights
-
----
+```text
+User Input
+(AQI + Location + Images + Questions)
+                 │
+                 ▼
+      Large Language Model (LLM)
+                 │
+                 ▼
+      Contextual Reasoning Engine
+                 │
+ ┌──────────────┼───────────────┐
+ ▼              ▼               ▼
+AQI Analysis Chat Assistant Image Analysis
+                 │
+                 ▼
+     Dynamic City Visualization
+                 │
+                 ▼
+ Personalized Recommendations
+```
 
 # 🎯 Use Cases
 
-🏥 Public Health Awareness
+### 🏥 Public Health Awareness
 
-🌍 Environmental Monitoring
+Understand the health implications of air pollution and receive personalized recommendations.
 
-👨‍👩‍👧 Family Safety
+### 👨‍👩‍👧 Family Safety
 
-📈 AI-powered Analytics
+Protect children, elderly individuals, and sensitive groups from harmful pollution exposure.
 
-📚 Educational Applications
+### 🌍 Environmental Monitoring
 
-🤖 Conversational AI Systems
+Track AQI levels and understand associated health risks.
+
+### 📚 Educational Applications
+
+Learn about air pollution, PM2.5, and environmental health through AI-assisted explanations.
+
+### 🤖 Conversational AI Systems
+
+Demonstrates practical applications of LLM-powered assistants.
 
 ---
 
-# 🚀 Future Improvements
+# 🚀 Future Enhancements
 
-* Real-time AQI API integration
-* Weather forecasting
+* Real-time AQI APIs
+* Weather forecasting integration
 * Historical trend analysis
-* Vector databases
 * Retrieval-Augmented Generation (RAG)
+* Vector databases
 * Agentic AI workflows
 * Voice-enabled interaction
 * Multilingual support
@@ -217,21 +195,19 @@ Generated recommendations should complement—not replace—guidance from health
 
 ## MD Mahfooz Alam Ansari
 
-### Generative AI Engineer | Data Science & Analytics Professional | Full Stack Developer
-
-### 🎯 Focus Areas
-
-🧠 Large Language Models
-
-🤖 Generative AI Applications
-
-🌍 Multimodal AI Systems
-
-📊 Intelligent Analytics
-
-⚡ AI Automation
-
-🚀 Agentic AI Workflows
+**Generative AI Engineer | LLM Engineer | Machine Learning Engineer | Data Science & Analytics Professional | Full Stack Developer**
 
 ---
 
+## Areas of Interest
+
+* 🧠 Large Language Models
+* 🤖 Generative AI Applications
+* 🌍 Multimodal AI Systems
+* 📊 Intelligent Analytics
+* ⚡ AI Automation
+* 🚀 Agentic AI Workflows
+
+---
+
+⭐ If you found this project useful, consider giving it a star!
